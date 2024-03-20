@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>Alice Johnson</name>
+        <age>28</age>
+        <gender>Female</gender>
+        <department>Marketing</department>
+    </employee>
+    <employee>
+        <name>Bob Smith</name>
+        <age>35</age>
+        <gender>Male</gender>
+        <department>Engineering</department>
+    </employee>
+    <employee>
+        <name>Emily Brown</name>
+        <age>42</age>
+        <gender>Female</gender>
+        <department>Finance</department>
+    </employee>
+</employees>
